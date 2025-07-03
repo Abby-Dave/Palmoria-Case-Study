@@ -20,10 +20,7 @@ Does Palmoria meet the minimum wage of $90,000?
 Distribution of employee grouped by bands of 10,000 ( Also visualize this by regions)
 
 ### Analysis
-
-
-
-
+[Project( Case Study 3).pdf](https://github.com/user-attachments/files/21028163/Project.Case.Study.3.pdf)
 
 
 
